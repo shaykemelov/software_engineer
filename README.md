@@ -12,3 +12,6 @@
 ## Essential skills
 * [Clean code](https://www.ozon.ru/context/detail/id/4220508/)
 * [Complete code](https://www.ozon.ru/context/detail/id/138437220/)
+
+## Concurrency
+* [Java Concurrency in Practice](https://www.ozon.ru/context/detail/id/3174887/)
