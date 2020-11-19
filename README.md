@@ -15,7 +15,7 @@
 * [Искусство программирования. Том 1. Основные алгоритмы](https://www.ozon.ru/context/detail/id/149831755/)
 * [Искусство программирования. Том 2. Получисленные алгоритмы](https://www.ozon.ru/context/detail/id/150133607/)
 * [Искусство программирования. Том 3. Сортировка и поиск](https://www.ozon.ru/product/kniga-iskusstvo-programmirovaniya-tom-3-sortirovka-i-poisk-2-e-izdanie-174265194/)
-* [Искусство программирования, Том 4А. Комбинаторные алгоритмы. Часть 1](https://www.ozon.ru/context/detail/id/149325756/)
+* [Искусство программирования. Том 4А. Комбинаторные алгоритмы. Часть 1](https://www.ozon.ru/context/detail/id/149325756/)
 
 ## Essential skills
 * [Clean code](https://www.ozon.ru/context/detail/id/4220508/)
