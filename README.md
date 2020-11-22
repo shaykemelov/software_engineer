@@ -21,6 +21,10 @@
 * [Clean code](https://www.ozon.ru/context/detail/id/4220508/)
 * [Совершенный код](https://www.ozon.ru/context/detail/id/138437220/)
 
+## Databases
+* Relational databases — TBD
+* Graph databases — TBD
+
 ## Computer science
 * [Архитектура компьютера](https://www.ozon.ru/context/detail/id/147529631/)
 * [Современные операционные системы](https://www.ozon.ru/context/detail/id/148011280/)
