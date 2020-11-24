@@ -32,3 +32,6 @@
 
 ## Mathematics and Geometry
 * [Конкретная математика. Математические основы информатики](https://www.ozon.ru/context/detail/id/31333006/)
+
+## Tools
+* [Pro Git](https://git-scm.com/book/en/v2)
