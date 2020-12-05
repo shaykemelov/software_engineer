@@ -26,6 +26,7 @@
 * Graph databases — TBD
 
 ## Computer science
+* [Код. Тайный язык информатики](https://www.ozon.ru/context/detail/id/159865410/)
 * [Архитектура компьютера](https://www.ozon.ru/context/detail/id/147529631/)
 * [Современные операционные системы](https://www.ozon.ru/context/detail/id/148011280/)
 * [Компьютерные сети](https://www.ozon.ru/context/detail/id/149235187/)
