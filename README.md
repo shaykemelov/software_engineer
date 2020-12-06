@@ -18,7 +18,7 @@
 * [Искусство программирования. Том 4А. Комбинаторные алгоритмы. Часть 1](https://www.ozon.ru/context/detail/id/149325756/)
 
 ## Architecture
-* [Clean code](https://www.ozon.ru/context/detail/id/4220508/)
+* [Clean Code: A Handbook of Agile Software Craftsmanship](https://www.ozon.ru/context/detail/id/4220508/)
 * [Совершенный код](https://www.ozon.ru/context/detail/id/138437220/)
 * [Чистый код. Создание анализ и рефакторинг;Чистый код. Создание, анализ и рефакторинг](https://www.ozon.ru/context/detail/id/142429922)
 
