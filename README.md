@@ -12,6 +12,7 @@
 
 ## Algorithms and data structures
 * [Структуры данных и алгоритмы в Java](https://www.ozon.ru/context/detail/id/23529814/)
+* [Алгоритмы на Java](https://www.ozon.ru/context/detail/id/149059238/)
 * [Искусство программирования. Том 1. Основные алгоритмы](https://www.ozon.ru/context/detail/id/149831755/)
 * [Искусство программирования. Том 2. Получисленные алгоритмы](https://www.ozon.ru/context/detail/id/150133607/)
 * [Искусство программирования. Том 3. Сортировка и поиск](https://www.ozon.ru/product/kniga-iskusstvo-programmirovaniya-tom-3-sortirovka-i-poisk-2-e-izdanie-174265194/)
@@ -31,6 +32,9 @@
 * [Архитектура компьютера](https://www.ozon.ru/context/detail/id/147529631/)
 * [Современные операционные системы](https://www.ozon.ru/context/detail/id/148011280/)
 * [Компьютерные сети](https://www.ozon.ru/context/detail/id/149235187/)
+
+## Cryptography
+* [Прикладная криптография. Протоколы, алгоритмы и исходный код на C](https://www.ozon.ru/reviews/135481806/)
 
 ## Mathematics and Geometry
 * [Конкретная математика. Математические основы информатики](https://www.ozon.ru/context/detail/id/31333006/)
