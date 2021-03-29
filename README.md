@@ -45,3 +45,4 @@
 * Maven — TBD
 * Docker — TBD
 * Kubernetes — TBD
+* CI/CD — TBD
