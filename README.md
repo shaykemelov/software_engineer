@@ -1,5 +1,11 @@
 # Software engineer roadmap
 
+## C Programming language
+* [Язык программирования C. Лекции и упражнения. 6-е издание](https://www.flip.kz/catalog?prod=524231)
+
+## C++ Programming language
+* [Объектно-ориентированное программирование в С++](https://www.flip.kz/catalog?prod=189717)
+
 ## Java programming language
 * [Философия Java](https://www.ozon.ru/context/detail/id/142431463/)
 * [Java 11. OCP](https://www.amazon.com/dp/1119619130/)
@@ -8,9 +14,6 @@
 * [Java Persistence API and Hibernate](https://www.flip.kz/catalog?prod=944799)
 * [Java 11. Java Language Specification](https://docs.oracle.com/javase/specs/jls/se11/jls11.pdf)
 * [Java 11. Java Virtual Machine Specification](https://docs.oracle.com/javase/specs/jvms/se11/jvms11.pdf)
-
-## C Programming language
-* [Язык программирования C. Лекции и упражнения. 6-е издание](https://www.flip.kz/catalog?prod=524231)
 
 ## Algorithms and data structures
 * [Структуры данных и алгоритмы в Java](https://www.ozon.ru/context/detail/id/23529814/)
