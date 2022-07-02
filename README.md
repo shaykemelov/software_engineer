@@ -5,9 +5,9 @@
 * [Java 11. OCP](https://www.amazon.com/dp/1119619130/)
 * [Java. Эффективное программирование](https://www.ozon.ru/context/detail/id/148627191/)
 * [Java Concurrency in Practice](https://www.ozon.ru/context/detail/id/3174887/)
+* [Java Persistence API and Hibernate](https://www.flip.kz/catalog?prod=944799)
 * [Java 11. Java Language Specification](https://docs.oracle.com/javase/specs/jls/se11/jls11.pdf)
 * [Java 11. Java Virtual Machine Specification](https://docs.oracle.com/javase/specs/jvms/se11/jvms11.pdf)
-* [Java Persistence API and Hibernate](https://www.flip.kz/catalog?prod=944799)
 
 ## C Programming language
 * [Язык программирования C. Лекции и упражнения. 6-е издание](https://www.flip.kz/catalog?prod=524231)
@@ -23,6 +23,7 @@
 ## Architecture
 * [Clean Code: A Handbook of Agile Software Craftsmanship](https://www.ozon.ru/context/detail/id/4220508/)
 * [Совершенный код](https://www.ozon.ru/context/detail/id/138437220/)
+* [Чистая архитектура. Искусство разработки программного обеспечения](https://www.flip.kz/catalog?prod=1103285)
 * [Чистый код. Создание анализ и рефакторинг](https://www.ozon.ru/context/detail/id/142429922)
 * [Head First Design Patterns](https://www.ozon.ru/context/detail/id/2588000/)
 
@@ -32,6 +33,8 @@
 
 ## Computer science
 * [Код. Тайный язык информатики](https://www.ozon.ru/context/detail/id/159865410/)
+* [Build a Modern Computer from First Principles: From Nand to Tetris](https://www.coursera.org/learn/build-a-computer)
+* [Build a Modern Computer from First Principles: From Nand to Tetris Part II](https://www.coursera.org/learn/nand2tetris2)
 * [Архитектура компьютера](https://www.ozon.ru/context/detail/id/147529631/)
 * [Современные операционные системы](https://www.ozon.ru/context/detail/id/148011280/)
 * [Компьютерные сети](https://www.ozon.ru/context/detail/id/149235187/)
