@@ -7,7 +7,8 @@
 * [Объектно-ориентированное программирование в С++](https://www.flip.kz/catalog?prod=189717)
 
 ## Java programming language
-* [Философия Java](https://www.ozon.ru/context/detail/id/142431463/)
+* [Java. Библиотека профессионала. Том 1. Основы. 11-е издание](https://www.flip.kz/catalog?prod=1414783)
+* [Java. Библиотека профессионала. Том 2. Расширенные средства программирования. 11-е издание](https://www.flip.kz/catalog?prod=1613941)
 * [Java 11. OCP](https://www.amazon.com/dp/1119619130/)
 * [Java. Эффективное программирование](https://www.ozon.ru/context/detail/id/148627191/)
 * [Java Concurrency in Practice](https://www.ozon.ru/context/detail/id/3174887/)
